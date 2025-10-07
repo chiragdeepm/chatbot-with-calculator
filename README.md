@@ -13,7 +13,7 @@ The core logic defined in `src/agent/graph.py`, showcases an single-step applica
 
 You can extend this graph to orchestrate more complex agentic workflows that can be visualized and debugged in LangGraph Studio.
 
-## Getting Started
+## Getting Started with LangChain
 
 1. Install dependencies, along with the [LangGraph CLI](https://langchain-ai.github.io/langgraph/concepts/langgraph_cli/), which will be used to run the server.
 
